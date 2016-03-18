@@ -1,5 +1,6 @@
 /**
  * Created by CeShang on 2016/3/17.
+ * To execuate. Input command as "Node simplerect --l=2 --b=3"
  */
 var rect = require('rect');
 
