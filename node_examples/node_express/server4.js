@@ -57,8 +57,3 @@ app.use(express.static(__dirname+'/public'));
 
 app.listen(port, hostname, function(){
     console.log('Server running at http://${localhost}:${port}/');
-<<<<<<< HEAD
-});
-=======
-});
->>>>>>> 765b546a2106bd4e45764e456e64eb1534d18bd3
